@@ -9,13 +9,12 @@
     gap: 10px;
 }
 
-
 @media(max-width: 496px) {
     .lista-personagens {
         width: 250px;
     }
 
-    .imagem-carta {
+    .imagen-carta {
         width: 100%;
     }
 
@@ -36,6 +35,7 @@
         left: 20%;
     }
 }
+
 
 @media(max-width: 375px) {
     body {
